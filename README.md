@@ -2,5 +2,5 @@
 Contributors:
 Aron Dadi(me)
 Sarah Lee Jara
-
-Click me to see
+(Click)[https://aronddadi.github.io/template-pro/html/main.html]
+[Click me to see](https://aronddadi.github.io/template-pro/html/main.html)
