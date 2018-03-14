@@ -1,2 +1,6 @@
 # website-template-pro
-https://sarahleejara.github.io/website-template-pro/html/main.html
+Contributors:
+Aron Dadi(me)
+Sarah Lee Jara
+
+Click me to see
